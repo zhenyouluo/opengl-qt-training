@@ -1,0 +1,35 @@
+newmtl blinn1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.55 0.55 0.55
+Tf 1.00 1.00 1.00
+map_Kd uniform.jpg
+Ni 1.00
+newmtl lambert11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.47 0.47 0.47
+Tf 1.00 1.00 1.00
+map_Kd shoes.tga
+Ni 1.00
+newmtl lambert12SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.51 0.51 0.51
+Tf 1.00 1.00 1.00
+map_Kd body.tga
+Ni 1.00
+newmtl man2_lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.82 0.82 0.82
+Tf 1.00 1.00 1.00
+map_Kd face.tga
+Ni 1.00
+newmtl man2_lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.55 0.55 0.55
+Tf 1.00 1.00 1.00
+map_Kd hair.tga
+Ni 1.00
